@@ -7,6 +7,8 @@
 
 *Inspect the CSV files, and then sketch an Entity Relationship Diagram of the tables.*
 
+![ER_Diagram copy](https://github.com/sullivanshave/sql-challenge/assets/136047062/6b6355d1-60d7-4ce6-b744-244c11a3bc59)
+
 ## Data Engineering
 
 *Use the provided information to create a table schema for each of the six CSV files. Be sure to do the following:*
